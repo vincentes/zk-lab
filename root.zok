@@ -1,0 +1,6 @@
+// a simple circuit which proves knowledge of a square root
+// of a certain field element `b`
+def main (private field a, field b) {
+    assert(a * a == b);
+    return;
+}
