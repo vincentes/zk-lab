@@ -15,4 +15,20 @@ def main (private field a, field b) {
     return;
 }
 ```
+### Prover
+* Provides `a` and `b`, calculates the result of the circuit. 1 if valid, 0 if not.
+* Prover shares `b`, result, and proof with verifier.
 
+### Verifier
+Verifier can check that prover knew square root of `b`, without learning the square root.
+
+### Execution
+`zokrates compile -i root.zok`
+
+`zokrates setup`
+
+`zokrates compute-witness -a <a> -b <b>`
+
+`zokrates generate-proof`
+
+`zokrates verify`
