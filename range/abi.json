@@ -1,0 +1,25 @@
+{
+  "inputs": [
+    {
+      "name": "age",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "min_age",
+      "public": true,
+      "type": "field"
+    },
+    {
+      "name": "max_age",
+      "public": true,
+      "type": "field"
+    }
+  ],
+  "output": {
+    "type": "tuple",
+    "components": {
+      "elements": []
+    }
+  }
+}

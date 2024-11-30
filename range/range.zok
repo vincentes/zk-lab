@@ -1,0 +1,4 @@
+def main (private field age, field min_age, field max_age) {
+    assert(age >= min_age && age <= max_age);
+    return;
+}
