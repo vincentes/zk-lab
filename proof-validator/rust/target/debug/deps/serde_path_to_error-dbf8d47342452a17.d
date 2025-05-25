@@ -1,0 +1,9 @@
+/Users/vincxntes/zk-prove-data/rust/target/debug/deps/libserde_path_to_error-dbf8d47342452a17.rmeta: /Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/lib.rs /Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/de.rs /Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/path.rs /Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/ser.rs /Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/wrap.rs
+
+/Users/vincxntes/zk-prove-data/rust/target/debug/deps/serde_path_to_error-dbf8d47342452a17.d: /Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/lib.rs /Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/de.rs /Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/path.rs /Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/ser.rs /Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/wrap.rs
+
+/Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/lib.rs:
+/Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/de.rs:
+/Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/path.rs:
+/Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/ser.rs:
+/Users/vincxntes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.17/src/wrap.rs:
