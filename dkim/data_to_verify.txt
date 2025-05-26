@@ -1,0 +1,5 @@
+DKIM-Signature: v=1; a=rsa-sha256; d=itau.com.uy; s=oct2021; c=relaxed/simple; q=dns/txt; t=1747937745; h=MCDl///VQvWFIRH1vVcnQig6C6QPIYPUviLokNqa6RQ=
+dper+CYoaDem9SAmWM54NvttL/XsvtYD3tOaLKatgSQ=
+Ism/5AU5mcrmmovMrCoqUiNtP3xTLB82ewJn7ncfrvg=
+3D"0" marginheight=3D"0" style=3D"background_color: #ffffff; bh=MCDl///VQvWFIRH1vVcnQig6C6QPIYPUviLokNqa6RQ=
+Ism/5AU5mcrmmovMrCoqUiNtP3xTLB82ewJn7ncfrvg=; b=
